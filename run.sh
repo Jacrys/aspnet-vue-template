@@ -109,7 +109,7 @@ __get_remote_file() {
 
     local failed=false
     if __machine_has wget; then
-        wget --tries 10 --quiet -O "$local_path" "${remote_path}${remote_path_suffix}" || failed=true
+        wget --tries 10 -O "$local_path" "${remote_path}${remote_path_suffix}" || failed=true
     else
         failed=true
     fi
