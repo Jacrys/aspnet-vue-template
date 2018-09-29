@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Templates.Test", "test\Temp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemplatePackages", "TemplatePackages", "{0AD6E692-E423-408C-B523-DAFB19412E4B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.AspNetCore.SpaTemplates", "src\Microsoft.AspNetCore.SpaTemplates\Microsoft.AspNetCore.SpaTemplates.csproj", "{01E12D5E-8540-4BC8-9A54-41EDD55E762E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baxterworks.AspNetCore.SpaTemplates", "src\Baxterworks.AspNetCore.SpaTemplates\Baxterworks.AspNetCore.SpaTemplates.csproj", "{01E12D5E-8540-4BC8-9A54-41EDD55E762E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
