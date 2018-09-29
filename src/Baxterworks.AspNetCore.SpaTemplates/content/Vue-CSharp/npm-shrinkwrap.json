@@ -2770,6 +2770,11 @@
         "pinkie": "^2.0.0"
       }
     },
+    "popper.js": {
+      "version": "1.14.4",
+      "resolved": "https://registry.npmjs.org/popper.js/-/popper.js-1.14.4.tgz",
+      "integrity": "sha1-juwdj/AqWjoVLdQ0FKFce3n9abY="
+    },
     "postcss": {
       "version": "5.2.17",
       "resolved": "https://registry.npmjs.org/postcss/-/postcss-5.2.17.tgz",
