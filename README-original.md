@@ -1,8 +1,6 @@
-# Vue template for ASP.NET Core
+# Templates
 
-## Note
-
-This is a "quick" fork of the templates before Vue was removed. Expect trouble.
+AppVeyor: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/aspnet/templating?branch=dev&svg=true)](https://ci.appveyor.com/project/aspnetci/templating/branch/dev)
 
 ## Getting Started
 ASP.NET Templates provide project templates which are used in .NET Core for creating ASP.NET Core applications.
