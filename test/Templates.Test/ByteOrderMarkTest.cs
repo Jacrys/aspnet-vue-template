@@ -18,8 +18,6 @@ namespace Templates.Test
 
         [Theory]
         [InlineData("Microsoft.AspNetCore.SpaTemplates")]
-        [InlineData("Microsoft.DotNet.Web.ProjectTemplates")]
-        [InlineData("Microsoft.DotNet.Web.Spa.ProjectTemplates")]
         public void CheckForByteOrderMarkSpaTemplates(string projectType)
         {
             var currentDirectory = Directory.GetCurrentDirectory();
