@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Microsoft.AspNetCore.SpaTemplates</id>
+    <id>Baxterworks.AspNetCore.SpaTemplates</id>
     <version>$version$</version>
-    <authors>Microsoft</authors>
+    <authors>Microsoft, Community</authors>
     <description>Single Page Application templates for ASP.NET Core</description>
     <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
     <language>en-US</language>
     <projectUrl>https://github.com/aspnet/javascriptservices</projectUrl>
     <licenseUrl>https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm</licenseUrl>
-    <copyright>Copyright © Microsoft Corporation</copyright>
+    <copyright>Original Copyright © Microsoft Corporation, changes © various</copyright>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>aspnet templates spa</tags>
     <packageTypes>
